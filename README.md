@@ -1,7 +1,7 @@
 # Groovy-Secret-Weapon
 Old Toastmasters presentation on why Groovy is my secret weapon
 
-To start this presentation, open the java-pro-secret-weapon.sozi.html file in a browser.
+To start this presentation, open the [java-pro-secret-weapon.sozi.html](https://rodmxw11.github.io/Groovy-Secret-Weapon/java-pro-secret-weapon.sozi.htm) file in a browser.
 Hit the spacebar or click inside the window in order to move forward to the next step in the presentation.
 
 ## Sozi Presentation Application
